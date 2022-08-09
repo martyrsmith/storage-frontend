@@ -18,5 +18,4 @@ root.render(
       </Routes>
     </HashRouter>
   </React.StrictMode>,
-
 );
