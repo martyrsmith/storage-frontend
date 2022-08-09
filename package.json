@@ -2,6 +2,7 @@
   "name": "storage_frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://storage.dbnservers.net",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
