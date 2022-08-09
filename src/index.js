@@ -1,7 +1,6 @@
 import ReactDOM from "react-dom/client";
 import React from 'react';
 import {
-    BrowserRouter,
     Routes,
     Route, HashRouter,
 } from "react-router-dom";
