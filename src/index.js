@@ -11,12 +11,11 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-      <App />
-    {/*<HashRouter>*/}
-    {/*  <Routes>*/}
-    {/*    <Route path="/*" element={<App />}>*/}
-    {/*    </Route>*/}
-    {/*  </Routes>*/}
-    {/*</HashRouter>*/}
+    <HashRouter>
+      <Routes>
+        <Route path="/*" element={<App />}>
+        </Route>
+      </Routes>
+    </HashRouter>
   </React.StrictMode>,
 );
